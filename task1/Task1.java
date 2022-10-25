@@ -27,7 +27,7 @@ public class Task1 {
         double c = sideLength.getSideLength(x2, y2, x3, y3);
 
         if (a + b <= c || a + c <= b || b + c <= a)
-            System.out.println("Треугольник не существует");
+            System.out.println("Треугольника не существует");
         else {
             double p = (a + b + c) / 2.0;
             double square = Math.sqrt(p * (p - a) * (p - b) * (p - c));

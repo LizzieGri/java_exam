@@ -28,4 +28,5 @@ public class Task2 {
             System.out.println(String.format("%.1f", answer.getAnswer(byteSize, 4)) + " TB");
         }
     }
+
 }

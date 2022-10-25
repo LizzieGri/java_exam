@@ -1,7 +1,7 @@
 package exam.Task2;
 
 /**
- * Класс подсчета ответа.
+ * Класс подсчета результата.
  */
 public class Answer {
 
