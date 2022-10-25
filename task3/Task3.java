@@ -7,6 +7,7 @@ import java.util.*;
  */
 public class Task3 {
     public static void main(String[] args) {
+
         //List<Integer> integers = new ArrayList<>(Arrays.asList(6, 28, 1, 17));
         //List<Integer> integers = new ArrayList<>(Arrays.asList(6, 28, 17, 1));
         //List<Integer> integers = new ArrayList<>(Arrays.asList(1, 17, 6, 28));

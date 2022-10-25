@@ -18,6 +18,7 @@ public class Task4 {
                 + "  }\n"
                 + "} // the end\n"
                 + "// to be continued...\n";
+
         String noComments = removeJavaComments(source);
         System.out.println(noComments);
 
